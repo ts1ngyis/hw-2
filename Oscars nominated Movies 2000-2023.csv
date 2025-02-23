@@ -1,0 +1,353 @@
+Film,Year,Awards,Nominations,Director,Production House,IMDb Rating,Rotten Tomatoes Score
+Oppenheimer,2023,7,13,Christopher Nolan,"Syncopy, Warner Bros.",8.8,92%
+Poor Things,2023,4,11,Yorgos Lanthimos,Searchlight Pictures,8.1,93%
+The Zone of Interest,2023,2,5,Jonathan Glazer,A24,7.4,84%
+American Fiction,2023,1,5,Cord Jefferson,A24,7.6,78%
+Anatomy of a Fall,2023,1,5,Justine Triet,"Diaphana, Sophie Dulac Films",7.5,91%
+Barbie,2023,1,8,Greta Gerwig,Warner Bros.,7.3,89%
+The Boy and the Heron,2023,1,1,Hayao Miyazaki,Studio Ghibli,7.6,87%
+Godzilla Minus One,2023,1,1,Takashi Yamazaki,Toho,7.8,81%
+The Holdovers,2023,1,5,Alexander Payne,Focus Features,7.7,88%
+The Last Repair Shop,2023,1,1,Joao Moutinho,Eurofilm,6.9,74%
+20 Days in Mariupol,2023,1,1,Mstyslav Chernov,CNN Films,8.3,92%
+War Is Over! Inspired by the Music of John and Yoko,2023,1,1,Yoko Ono,Apple Films,6.5,78%
+The Wonderful Story of Henry Sugar,2023,1,1,Wes Anderson,Netflix,7.9,90%
+Everything Everywhere All at Once,2022,7,11,"Daniel Kwan, Daniel Scheinert",A24,7.8,92%
+All Quiet on the Western Front,2022,4,9,Edward Berger,Netflix,7.8,91%
+The Whale,2022,2,3,Darren Aronofsky,A24,7.8,63%
+Top Gun: Maverick,2022,1,6,Joseph Kosinski,Paramount Pictures,8,96%
+Black Panther: Wakanda Forever,2022,1,5,Ryan Coogler,Marvel Studios,6.8,84%
+Avatar: The Way of Water,2022,1,4,James Cameron,Lightstorm Entertainment,7.8,76%
+Women Talking,2022,1,2,Sarah Polley,Orion Pictures,7.7,90%
+Guillermo del Toro's Pinocchio,2022,1,1,Guillermo del Toro,Netflix,8,97%
+Navalny,2022,1,1,Daniel Roher,HBO Films,8,97%
+The Elephant Whisperers,2022,1,1,Kartiki Gonsalves,Netflix,8.1,100%
+An Irish Goodbye,2022,1,1,"Tom Berkeley, Ross White",Northern Ireland Screen,8.3,92%
+"The Boy, the Mole, the Fox and the Horse",2022,1,1,Charlie Mackesy,Apple TV+,7.9,89%
+RRR,2022,1,1,S. S. Rajamouli,DVV Entertainment,8,95%
+CODA,2021,3,3,Sian Heder,Apple Original Films,8,94%
+Dune,2021,6,10,Denis Villeneuve,Warner Bros.,8,83%
+The Eyes of Tammy Faye,2021,2,2,Michael Showalter,Searchlight Pictures,6.6,66%
+No Time to Die,2021,1,3,Cary Joji Fukunaga,"Eon Productions, Universal Pictures",6.8,84%
+The Windshield Wiper,2021,1,1,Alberto Mielgo,Lightbox,7.5,77%
+The Long Goodbye,2021,1,1,Rashid Johnson,Independent,7.6,82%
+The Queen of Basketball,2021,1,1,Ben Proudfoot,ESPN Films,7.8,86%
+Summer of Soul,2021,1,1,Ahmir-Khalib Thompson,Searchlight Pictures,8,99%
+Drive My Car,2021,1,4,Ryusuke Hamaguchi,"Bitters End, Sideshow",7.9,98%
+Encanto,2021,1,3,"Jared Bush, Byron Howard",Walt Disney Animation Studios,7.2,91%
+West Side Story,2021,1,7,Steven Spielberg,20th Century Studios,7.6,91%
+Belfast,2021,1,7,Kenneth Branagh,Focus Features,7.3,87%
+The Power of the Dog,2021,1,12,Jane Campion,Netflix,6.8,93%
+King Richard,2021,1,6,Reinaldo Marcus Green,Warner Bros.,7.5,91%
+Cruella,2021,1,2,Craig Gillespie,Walt Disney Pictures,7.4,74%
+Nomadland,2020/21,3,6,Chlo‚ Zhao,Searchlight Pictures,7.4,93%
+The Father,2020/21,2,6,Florian Zeller,Sony Pictures Classics,8.3,98%
+Judas and the Black Messiah,2020/21,2,6,"Shaka King, Ryan Coogler",Warner Bros.,7.6,96%
+Minari,2020/21,1,6,Lee Isaac Chung,A24,7.6,98%
+Mank,2020/21,2,10,David Fincher,Netflix,7.1,83%
+Sound of Metal,2020/21,2,6,Darius Marder,Amazon Studios,7.8,97%
+Ma Rainey's Black Bottom,2020/21,2,5,George C. Wolfe,Netflix,7.8,98%
+Promising Young Woman,2020/21,1,5,Emerald Fennell,Focus Features,7.5,89%
+Tenet,2020/21,1,2,Christopher Nolan,Warner Bros.,7.4,70%
+Soul,2020/21,2,3,"Pete Docter, Kemp Powers",Pixar Animation Studios,8.1,96%
+Another Round,2020/21,1,2,Thomas Vinterberg,"Zentropa, Danish Film Institute",7.8,91%
+My Octopus Teacher,2020/21,1,1,"Pippa Ehrlich, James Reed",Netflix,8,93%
+Colette,2020/21,1,1,Anthony Giacchino,Netflix,7.6,87%
+If Anything Happens I Love You,2020/21,1,1,"Michael Govier, Will McCormack",Netflix,7.7,89%
+Two Distant Strangers,2020/21,1,1,"Travon Free, Martin Desmond Roe",Netflix,7.5,83%
+Parasite,2019,4,6,Bong Joon-ho,CJ Entertainment,8.6,98%
+Ford v Ferrari,2019,2,4,James Mangold,20th Century Studios,8.1,92%
+Learning to Skateboard in a Warzone (If You're a Girl),2019,1,1,Carol Dysinger,HBO,8.1,95%
+The Neighbors' Window,2019,1,1,Marshall Curry,Netflix,8,88%
+Little Women,2019,1,6,Greta Gerwig,Columbia Pictures,7.8,95%
+Marriage Story,2019,1,6,Noah Baumbach,Netflix,7.9,94%
+Jojo Rabbit,2019,1,6,Taika Waititi,Fox Searchlight Pictures,7.9,80%
+Toy Story 4,2019,1,2,Josh Cooley,Pixar Animation Studios,7.7,97%
+Joker,2019,2,11,Todd Phillips,Warner Bros.,8.4,68%
+Once Upon a Time in Hollywood,2019,2,10,Quentin Tarantino,Columbia Pictures,7.6,85%
+1917,2019,3,10,Sam Mendes,"Universal Pictures, DreamWorks",8.3,89%
+Judy,2019,1,2,Rupert Goold,"BBC Films, Path‚",6.8,82%
+Bombshell,2019,1,3,Jay Roach,Lionsgate,6.8,68%
+Rocketman,2019,1,1,Dexter Fletcher,Paramount Pictures,7.3,89%
+American Factory,2019,1,1,"Steven Bognar, Julia Reichert",Netflix,7.4,96%
+Hair Love,2019,1,1,Matthew A. Cherry,Sony Pictures Animation,7.4,100%
+Green Book,2018,3,5,Peter Farrelly,Universal Pictures,8.2,77%
+Bohemian Rhapsody,2018,4,5,Bryan Singer,20th Century Fox,7.9,60%
+Roma,2018,3,10,Alfonso Cuar¢n,Netflix,7.7,96%
+Black Panther,2018,3,7,Ryan Coogler,Marvel Studios,7.3,96%
+The Favourite,2018,1,10,Yorgos Lanthimos,Fox Searchlight Pictures,7.5,93%
+A Star Is Born,2018,1,8,Bradley Cooper,Warner Bros.,7.6,90%
+Vice,2018,1,8,Adam McKay,Annapurna Pictures,7.2,65%
+BlacKkKlansman,2018,1,6,Spike Lee,Focus Features,7.5,96%
+First Man,2018,1,4,Damien Chazelle,Universal Pictures,7.3,87%
+If Beale Street Could Talk,2018,1,3,Barry Jenkins,Annapurna Pictures,7.1,95%
+Bao,2018,1,1,Domee Shi,Pixar Animation Studios,7.5,89%
+Free Solo,2018,1,1,"Elizabeth Chai Vasarhelyi, Jimmy Chin",National Geographic,8.2,97%
+Period. End of Sentence.,2018,1,1,Rayka Zehtabchi,Netflix,7.4,100%
+Skin,2018,1,1,Guy Nattiv,Fox Searchlight Pictures,7,75%
+Spider-Man: Into the Spider-Verse,2018,1,1,"Bob Persichetti, Peter Ramsey, Rodney Rothman",Sony Pictures Animation,8.4,97%
+The Shape of Water,2017,4,13,Guillermo del Toro,Fox Searchlight Pictures,7.3,92%
+Dunkirk,2017,3,8,Christopher Nolan,Warner Bros.,7.8,92%
+"Three Billboards Outside Ebbing, Missouri",2017,2,7,Martin McDonagh,Fox Searchlight Pictures,7.5,90%
+Darkest Hour,2017,2,6,Joe Wright,Working Title Films,7.4,84%
+Blade Runner 2049,2017,2,5,Denis Villeneuve,Warner Bros.,8,88%
+Coco,2017,2,2,"Lee Unkrich, Adrian Molina",Pixar Animation Studios,8.4,97%
+Phantom Thread,2017,1,6,Paul Thomas Anderson,Focus Features,7.6,91%
+Call Me by Your Name,2017,1,4,Luca Guadagnino,Sony Pictures Classics,7.9,94%
+Get Out,2017,1,4,Jordan Peele,Blumhouse Productions,7.7,98%
+"I, Tonya",2017,1,3,Craig Gillespie,Neon,7.5,90%
+Dear Basketball,2017,1,1,Glen Keane,Granity Studios,7.6,85%
+A Fantastic Woman,2017,1,1,Sebasti n Lelio,Fabula,7.2,94%
+Heaven Is a Traffic Jam on the 405,2017,1,1,Frank Stiefel,Breakwater Studios,7.5,100%
+Icarus,2017,1,1,Bryan Fogel,Netflix,7.9,94%
+The Silent Child,2017,1,1,Chris Overton,Slick Films,7.5,93%
+Flesh and Sandÿ(Carne y arena),2017,0 (1)[1],0,Alejandro Gonz lez I¤ rritu,ILMxLAB,8,90%
+Moonlight,2016,3,8,Barry Jenkins,A24,7.4,98%
+La La Land,2016,6,14,Damien Chazelle,Lionsgate,8,91%
+Hacksaw Ridge,2016,2,6,Mel Gibson,Summit Entertainment,8.1,85%
+Manchester by the Sea,2016,2,6,Kenneth Lonergan,Amazon Studios,7.8,96%
+Arrival,2016,1,8,Denis Villeneuve,21 Laps Entertainment,7.9,94%
+Fences,2016,1,4,Denzel Washington,Paramount Pictures,7.2,92%
+Fantastic Beasts and Where to Find Them,2016,1,2,David Yates,Warner Bros.,7.3,74%
+The Jungle Book,2016,1,1,Jon Favreau,Walt Disney Pictures,7.4,94%
+O.J.: Made in America,2016,1,1,Ezra Edelman,ESPN Films,8.9,100%
+Piper,2016,1,1,Alan Barillaro,Pixar Animation Studios,8.4,94%
+The Salesman,2016,1,1,Asghar Farhadi,Memento Films,7.8,96%
+Sing,2016,1,1,Garth Jennings,Illumination Entertainment,7.1,72%
+Suicide Squad,2016,1,1,David Ayer,Warner Bros.,6,26%
+The White Helmets,2016,1,1,Orlando von Einsiedel,Netflix,7.5,100%
+Zootopia,2016,1,1,"Byron Howard, Rich Moore, Jared Bush",Walt Disney Animation Studios,8,98%
+Spotlight,2015,2,6,Tom McCarthy,Participant Media,8.1,97%
+Mad Max: Fury Road,2015,6,10,George Miller,Warner Bros.,8.1,97%
+The Revenant,2015,3,12,Alejandro Gonz lez I¤ rritu,Regency Enterprises,8,78%
+Bridge of Spies,2015,1,6,Steven Spielberg,DreamWorks,7.6,91%
+The Big Short,2015,1,5,Adam McKay,Paramount Pictures,7.8,89%
+The Danish Girl,2015,1,4,Tom Hooper,Working Title Films,7.1,67%
+Room,2015,1,4,Lenny Abrahamson,Element Pictures,8.1,93%
+The Hateful Eight,2015,1,3,Quentin Tarantino,The Weinstein Company,7.8,75%
+Ex Machina,2015,1,2,Alex Garland,Universal Pictures,7.7,92%
+Inside Out,2015,1,2,"Pete Docter, Ronnie del Carmen",Pixar Animation Studios,8.1,98%
+Amy,2015,1,1,Asif Kapadia,A24,7.8,95%
+Bear Story,2015,1,1,Gabriel Osorio Vargas,Punkrobot Studios,7.4,93%
+A Girl in the River: The Price of Forgiveness,2015,1,1,Sharmeen Obaid-Chinoy,HBO,8.2,100%
+Son of Saul,2015,1,1,L szl¢ Nemes,Laokoon Filmgroup,7.5,96%
+Spectre,2015,1,1,Sam Mendes,Eon Productions,6.8,63%
+Stutterer,2015,1,1,Benjamin Cleary,Bare Golly Films,7.5,93%
+Birdman or (The Unexpected Virtue of Ignorance),2014,4,9,Alejandro G. I¤ rritu,New Regency Pictures,7.7,91%
+The Grand Budapest Hotel,2014,4,9,Wes Anderson,Fox Searchlight Pictures,8.1,91%
+Whiplash,2014,3,5,Damien Chazelle,Blumhouse Productions,8.5,94%
+The Imitation Game,2014,1,8,Morten Tyldum,Black Bear Pictures,8,91%
+American Sniper,2014,1,6,Clint Eastwood,Warner Bros.,7.3,72%
+Boyhood,2014,1,6,Richard Linklater,IFC Films,7.9,97%
+Interstellar,2014,1,5,Christopher Nolan,Warner Bros.,8.6,72%
+The Theory of Everything,2014,1,5,James Marsh,Working Title Films,7.7,80%
+Ida,2014,1,2,Pawe? Pawlikowski,Opus Film,7.4,96%
+Selma,2014,1,2,Ava DuVernay,Path‚,7.5,99%
+Citizenfour,2014,1,1,Laura Poitras,Praxis Films,8,96%
+Big Hero 6,2014,1,1,"Don Hall, Chris Williams",Walt Disney Animation Studios,7.8,89%
+Crisis Hotline: Veterans Press 1,2014,1,1,Ellen Goosenberg Kent,HBO,7.7,95%
+The Phone Call,2014,1,1,Mat Kirkby,RSA Films,7.5,100%
+Still Alice,2014,1,1,"Richard Glatzer, Wash Westmoreland",Killer Films,7.5,85%
+Feast,2014,1,1,Patrick Osborne,Walt Disney Animation Studios,8.2,94%
+12 Years a Slave,2013,3,9,Steve McQueen,Regency Enterprises,8.1,95%
+Gravity,2013,7,10,Alfonso Cuar¢n,Warner Bros.,7.7,96%
+Dallas Buyers Club,2013,3,6,Jean-Marc Vall‚e,Truth Entertainment,8,92%
+Frozen,2013,2,2,"Chris Buck, Jennifer Lee",Walt Disney Animation Studios,7.4,90%
+The Great Gatsby,2013,2,2,Baz Luhrmann,Warner Bros.,7.2,48%
+Her,2013,1,5,Spike Jonze,Annapurna Pictures,8,94%
+Blue Jasmine,2013,1,3,Woody Allen,Gravier Productions,7.3,91%
+Mr Hublot,2013,1,1,Laurent Witz,Zeilt Productions,7.2,96%
+The Lady in Number 6,2013,1,1,Malcolm Clarke,Reed Entertainment,7.4,100%
+Helium,2013,1,1,Anders Walter,M&M Productions,7.3,92%
+The Great Beauty,2013,1,1,Paolo Sorrentino,Indigo Film,7.7,91%
+20 Feet from Stardom,2013,1,1,Morgan Neville,Tremolo Productions,7.4,99%
+Argo,2012,3,7,Ben Affleck,Warner Bros.,7.7,96%
+Life of Pi,2012,4,11,Ang Lee,Fox 2000 Pictures,7.9,86%
+Les Mis‚rables,2012,3,8,Tom Hooper,Working Title Films,7.6,70%
+Lincoln,2012,2,12,Steven Spielberg,DreamWorks,7.8,89%
+Django Unchained,2012,2,5,Quentin Tarantino,Columbia Pictures,8.4,87%
+Skyfall,2012,2,5,Sam Mendes,Eon Productions,7.8,92%
+Silver Linings Playbook,2012,1,8,David O. Russell,The Weinstein Company,7.7,92%
+Zero Dark Thirty,2012,1,5,Kathryn Bigelow,Annapurna Pictures,7.4,91%
+Amour,2012,1,5,Michael Haneke,Les Films du Losange,7.9,93%
+Anna Karenina,2012,1,4,Joe Wright,Working Title Films,6.6,63%
+Paperman,2012,1,1,John Kahrs,Walt Disney Animation Studios,8.2,96%
+Brave,2012,1,1,"Mark Andrews, Brenda Chapman",Pixar Animation Studios,7.1,78%
+Searching for Sugar Man,2012,1,1,Malik Bendjelloul,Red Box Films,8.2,95%
+Inocente,2012,1,1,"Sean Fine, Andrea Nix Fine",Shine Global,7.5,92%
+Curfew,2012,1,1,Shawn Christensen,Fuzzy Logic Pictures,7.9,88%
+The Artist,2011,5,10,Michel Hazanavicius,Warner Bros.,7.9,95%
+Hugo,2011,5,11,Martin Scorsese,GK Films,7.5,93%
+The Iron Lady,2011,2,2,Phyllida Lloyd,Path‚,6.4,52%
+The Descendants,2011,1,5,Alexander Payne,Fox Searchlight Pictures,7.3,89%
+The Girl with the Dragon Tattoo,2011,1,5,David Fincher,Columbia Pictures,7.8,86%
+Midnight in Paris,2011,1,4,Woody Allen,Gravier Productions,7.7,93%
+The Help,2011,1,4,Tate Taylor,DreamWorks,8.1,76%
+A Separation,2011,1,2,Asghar Farhadi,Asghar Farhadi Production,8.3,99%
+The Fantastic Flying Books of Mr. Morris Lessmore,2011,1,1,"William Joyce, Brandon Oldenburg",Moonbot Studios,7.6,93%
+The Shore,2011,1,1,Terry George,All Ashore Productions,7.4,85%
+Undefeated,2011,1,1,"Daniel Lindsay, T.J. Martin",Spitfire Pictures,7.7,96%
+The Muppets,2011,1,1,James Bobin,Walt Disney Pictures,7.1,95%
+Saving Face,2011,1,1,"Daniel Junge, Sharmeen Obaid-Chinoy",HBO,8,100%
+Beginners,2011,1,1,Mike Mills,Olympus Pictures,7.2,84%
+Rango,2011,1,1,Gore Verbinski,Paramount Pictures,7.2,88%
+The King's Speech,2010,4,12,Tom Hooper,The Weinstein Company,8,95%
+Inception,2010,4,8,Christopher Nolan,Warner Bros.,8.8,87%
+The Social Network,2010,3,8,David Fincher,Columbia Pictures,7.7,96%
+The Fighter,2010,2,7,David O. Russell,Paramount Pictures,7.8,90%
+Toy Story 3,2010,2,5,Lee Unkrich,Pixar Animation Studios,8.3,98%
+Alice in Wonderland,2010,2,3,Tim Burton,Walt Disney Pictures,6.4,51%
+Black Swan,2010,1,5,Darren Aronofsky,Fox Searchlight Pictures,8,85%
+In a Better World,2010,1,1,Susanne Bier,Zentropa Productions,7.6,78%
+The Lost Thing,2010,1,1,"Andrew Ruhemann, Shaun Tan",Passion Pictures,7.3,100%
+God of Love,2010,1,1,Luke Matheny,Luke Matheny Productions,7.5,100%
+The Wolfman,2010,1,1,Joe Johnston,Universal Pictures,5.8,34%
+Strangers No More,2010,1,1,"Karen Goodman, Kirk Simon",Simon & Goodman Picture Company,7.4,100%
+Inside Job,2010,1,1,Charles Ferguson,Representational Pictures,8.2,98%
+The Hurt Locker,2009,6,9,Kathryn Bigelow,Voltage Pictures,7.6,97%
+Avatar,2009,3,9,James Cameron,20th Century Fox,7.8,82%
+Precious,2009,2,6,Lee Daniels,Lee Daniels Entertainment,7.3,91%
+Up,2009,2,5,Pete Docter,Pixar Animation Studios,8.2,98%
+Crazy Heart,2009,2,3,Scott Cooper,Fox Searchlight Pictures,7.2,91%
+Inglourious Basterds,2009,1,8,Quentin Tarantino,Universal Pictures,8.3,89%
+Star Trek,2009,1,4,J.J. Abrams,Paramount Pictures,7.9,94%
+The Young Victoria,2009,1,3,Jean-Marc Vall‚e,GK Films,7.2,76%
+The Blind Side,2009,1,2,John Lee Hancock,Alcon Entertainment,7.6,66%
+Music by Prudence,2009,1,1,Roger Ross Williams,iThemba Productions,7.3,100%
+The Secret in Their Eyes,2009,1,1,Juan Jos‚ Campanella,Haddock Films,8.2,91%
+The Cove,2009,1,1,Louie Psihoyos,Oceanic Preservation Society,8.4,94%
+The New Tenants,2009,1,1,Joachim Back,Park Pictures,7.4,100%
+Logorama,2009,1,1,"Fran‡ois Alaux, Herv‚ de Cr‚cy, Ludovic Houplain",H5,7.6,81%
+Slumdog Millionaire,2008,8,10,Danny Boyle,Celador Films,8,91%
+The Curious Case of Benjamin Button,2008,3,13,David Fincher,Warner Bros.,7.8,71%
+Milk,2008,2,8,Gus Van Sant,Groundswell Productions,7.5,93%
+The Dark Knight,2008,2,8,Christopher Nolan,Warner Bros.,9,94%
+WALL-E,2008,1,6,Andrew Stanton,Pixar Animation Studios,8.4,95%
+The Reader,2008,1,5,Stephen Daldry,The Weinstein Company,7.6,63%
+The Duchess,2008,1,2,Saul Dibb,Qwerty Films,6.9,61%
+Departures,2008,1,1,Y?jir? Takita,Asmik Ace Entertainment,8.1,81%
+Vicky Cristina Barcelona,2008,1,1,Woody Allen,Mediapro,7.1,81%
+Smile Pinki,2008,1,1,Megan Mylan,Principe Productions,7.5,90%
+Man on Wire,2008,1,1,James Marsh,Wall to Wall Media,7.7,100%
+Toyland,2008,1,1,Jochen Alexander Freydank,Mephisto Film,7.7,100%
+La Maison en Petits Cubes,2008,1,1,Kunio Kat?,Robot Communications Inc.,8.1,94%
+No Country for Old Men,2007,4,8,"Joel Coen, Ethan Coen",Miramax Films,8.2,93%
+The Bourne Ultimatum,2007,3,3,Paul Greengrass,Universal Pictures,8,92%
+There Will Be Blood,2007,2,8,Paul Thomas Anderson,Ghoulardi Film Company,8.2,91%
+La Vie en rose,2007,2,3,Olivier Dahan,L‚gende Films,7.6,74%
+Atonement,2007,1,7,Joe Wright,Universal Pictures,7.8,83%
+Michael Clayton,2007,1,7,Tony Gilroy,Samuels Media,7.2,91%
+Ratatouille,2007,1,5,Brad Bird,Pixar Animation Studios,8,96%
+Juno,2007,1,4,Jason Reitman,Mandate Pictures,7.4,94%
+Sweeney Todd: The Demon Barber of Fleet Street,2007,1,3,Tim Burton,Warner Bros.,7.3,86%
+The Golden Compass,2007,1,2,Chris Weitz,New Line Cinema,6.1,42%
+Elizabeth: The Golden Age,2007,1,2,Shekhar Kapur,Universal Pictures,6.8,35%
+Taxi to the Dark Side,2007,1,1,Alex Gibney,Jigsaw Productions,7.9,100%
+Peter & the Wolf,2007,1,1,Suzie Templeton,BreakThru Films,7.5,100%
+Once,2007,1,1,John Carney,Samson Films,7.8,97%
+Le Mozart des pickpockets,2007,1,1,Philippe Pollet-Villard,H5 Productions,7.3,100%
+The Counterfeitersÿ(Die F„lscher),2007,1,1,Stefan Ruzowitzky,Magnolia Pictures,7.6,93%
+Freeheld,2007,1,1,Cynthia Wade,Lieutenant Films,7.5,100%
+The Departed,2006,4,5,Martin Scorsese,Warner Bros.,8.5,91%
+Pan's Labyrinthÿ(El laberinto del fauno),2006,3,6,Guillermo del Toro,Warner Bros.,8.2,95%
+Dreamgirls,2006,2,8,Bill Condon,DreamWorks,6.5,78%
+Little Miss Sunshine,2006,2,4,"Jonathan Dayton, Valerie Faris",Big Beach Films,7.8,91%
+An Inconvenient Truth,2006,2,2,Davis Guggenheim,Lawrence Bender Productions,7.4,93%
+Babel,2006,1,7,Alejandro Gonz lez I¤ rritu,Paramount Vantage,7.5,69%
+The Queen,2006,1,6,Stephen Frears,Path‚,7.3,96%
+Letters from Iwo Jima,2006,1,4,Clint Eastwood,DreamWorks,7.9,91%
+Pirates of the Caribbean: Dead Man's Chest,2006,1,4,Gore Verbinski,Walt Disney Pictures,7.3,53%
+The Danish Poet,2006,1,1,Torill Kove,Mikrofilm AS,7.3,91%
+Happy Feet,2006,1,1,George Miller,Warner Bros.,6.4,75%
+The Last King of Scotland,2006,1,1,Kevin Macdonald,Fox Searchlight Pictures,7.7,87%
+The Lives of Othersÿ(Das Leben der Anderen),2006,1,1,Florian Henckel von Donnersmarck,Wiedemann & Berg Film,8.4,93%
+Marie Antoinette,2006,1,1,Sofia Coppola,Columbia Pictures,6.4,57%
+West Bank Story,2006,1,1,Ari Sandel,Ari Sandel Productions,7.2,88%
+The Blood of Yingzhou District,2006,1,1,Ruby Yang,Thomas Lennon Films,7.5,91%
+Crash,2005,3,6,Paul Haggis,Lionsgate Films,7.8,74%
+Brokeback Mountain,2005,3,8,Ang Lee,Focus Features,7.7,87%
+Memoirs of a Geisha,2005,3,6,Rob Marshall,Columbia Pictures,7.3,35%
+King Kong,2005,3,4,Peter Jackson,Universal Pictures,7.2,84%
+Capote,2005,1,5,Bennett Miller,Sony Pictures Classics,7.3,90%
+Walk the Line,2005,1,5,James Mangold,Fox 2000 Pictures,7.8,83%
+The Constant Gardener,2005,1,4,Fernando Meirelles,Focus Features,7.4,83%
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,1,3,Andrew Adamson,Walt Disney Pictures,6.9,76%
+Hustle & Flow,2005,1,2,Craig Brewer,Crunk Pictures,7.3,82%
+Syriana,2005,1,2,Stephen Gaghan,Warner Bros.,6.9,73%
+March of the Penguinsÿ(La Marche de l'empereur),2005,1,1,Luc Jacquet,Warner Independent Pictures,7.5,94%
+Six Shooter,2005,1,1,Martin McDonagh,Missing in Action Films,7.5,93%
+The Moon and the Son: An Imagined Conversation,2005,1,1,John Canemaker,John Canemaker Productions,7.2,83%
+A Note of Triumph: The Golden Age of Norman Corwin,2005,1,1,Eric Simonson,HBO Documentary Films,7.4,80%
+Tsotsi,2005,1,1,Gavin Hood,Moviworld,7.2,81%
+Wallace & Gromit: The Curse of the Were-Rabbit,2005,1,1,"Nick Park, Steve Box",DreamWorks Animation,7.4,95%
+Million Dollar Baby,2004,4,7,Clint Eastwood,Warner Bros.,8.1,90%
+The Aviator,2004,5,11,Martin Scorsese,Warner Bros.,7.5,86%
+Ray,2004,2,6,Taylor Hackford,Bristol Bay Productions,7.7,81%
+The Incredibles,2004,2,4,Brad Bird,Pixar Animation Studios,8,97%
+Finding Neverland,2004,1,7,Marc Forster,Miramax Films,7.7,83%
+Sideways,2004,1,5,Alexander Payne,Fox Searchlight Pictures,7.5,97%
+Lemony Snicket's A Series of Unfortunate Events,2004,1,4,Brad Silberling,Paramount Pictures,6.8,71%
+Spider-Man 2,2004,1,3,Sam Raimi,Columbia Pictures,7.3,93%
+Eternal Sunshine of the Spotless Mind,2004,1,2,Michel Gondry,Focus Features,8,92%
+The Motorcycle Diaries,2004,1,2,Walter Salles,FilmFour,7.8,83%
+The Sea Inside,2004,1,2,Alejandro Amen bar,Fine Line Features,8,84%
+Born into Brothels,2004,1,1,"Zana Briski, Ross Kauffman",THINKFilm,7.3,95%
+Mighty Times: The Children's March,2004,1,1,Robert Houston,HBO,7.7,100%
+Wasp,2004,1,1,Andrea Arnold,Cowtown Pictures,7.1,87%
+Ryan,2004,1,1,Chris Landreth,Copper Heart Entertainment,7.5,92%
+The Lord of the Rings: The Return of the King,2003,11,11,Peter Jackson,New Line Cinema,8.9,93%
+Master and Commander: The Far Side of the World,2003,2,10,Peter Weir,20th Century Fox,7.4,85%
+Mystic River,2003,2,6,Clint Eastwood,Warner Bros.,7.9,88%
+Cold Mountain,2003,1,7,Anthony Minghella,Miramax Films,7.2,70%
+Lost in Translation,2003,1,4,Sofia Coppola,American Zoetrope,7.7,95%
+Finding Nemo,2003,1,4,Andrew Stanton,Pixar Animation Studios,8.2,99%
+The Barbarian Invasions,2003,1,2,Denys Arcand,Miramax Films,7.6,82%
+Two Soldiers,2003,1,1,Aaron Schneider,Old Caddie Pictures,7,89%
+Monster,2003,1,1,Patty Jenkins,Newmarket Films,7.3,81%
+Harvie Krumpet,2003,1,1,Adam Elliot,Melodrama Pictures,7.8,100%
+Chernobyl Heart,2003,1,1,Maryann DeLeo,Downtown TV Documentaries,7.7,94%
+The Fog of War,2003,1,1,Errol Morris,Sony Pictures Classics,8.1,96%
+Chicago,2002,6,13,Rob Marshall,Miramax Films,7.2,86%
+The Pianist,2002,3,7,Roman Polanski,Studio Babelsberg,8.5,95%
+The Lord of the Rings: The Two Towers,2002,2,6,Peter Jackson,New Line Cinema,8.8,95%
+Frida,2002,2,6,Julie Taymor,Miramax Films,7.3,75%
+The Hours,2002,1,9,Stephen Daldry,Paramount Pictures,7.5,79%
+Road to Perdition,2002,1,6,Sam Mendes,DreamWorks Pictures,7.7,81%
+Adaptation,2002,1,4,Spike Jonze,Columbia Pictures,7.7,91%
+Talk to Herÿ(Hable con ella),2002,1,2,Pedro Almod¢var,Warner Sogefilms,7.9,91%
+This Charming Manÿ(Der Er En Yndig Mand),2002,1,1,Martin Strange-Hansen,M&M Productions,7.2,86%
+Spirited Away,2002,1,1,Hayao Miyazaki,Studio Ghibli,8.6,97%
+Nowhere in Africaÿ(Nirgendwo in Afrika),2002,1,1,Caroline Link,Bavaria Film,7.5,83%
+The ChubbChubbs!,2002,1,1,Eric Armstrong,Sony Pictures Animation,6.5,85%
+Twin Towers,2002,1,1,"Bill Guttentag, Robert David Port",Showtime,6.9,77%
+Bowling for Columbine,2002,1,1,Michael Moore,United Artists,7.9,95%
+8 Mile,2002,1,1,Curtis Hanson,Imagine Entertainment,7.1,75%
+A Beautiful Mind,2001,4,8,Ron Howard,Universal Pictures,8.2,74%
+The Lord of the Rings: The Fellowship of the Ring,2001,4,13,Peter Jackson,New Line Cinema,8.8,91%
+Moulin Rouge!,2001,2,8,Baz Luhrmann,20th Century Fox,7.6,76%
+Black Hawk Down,2001,2,4,Ridley Scott,Revolution Studios,7.7,76%
+Gosford Park,2001,1,7,Robert Altman,Sandcastle 5 Productions,7.2,87%
+"Monsters, Inc.",2001,1,4,Pete Docter,Pixar Animation Studios,8.1,96%
+Pearl Harbor,2001,1,4,Michael Bay,Touchstone Pictures,6.2,24%
+Iris,2001,1,3,Richard Eyre,BBC Films,7.1,79%
+Shrek,2001,1,2,"Andrew Adamson, Vicky Jenson",DreamWorks Animation,7.9,88%
+Training Day,2001,1,2,Antoine Fuqua,Warner Bros.,7.7,73%
+Monster's Ball,2001,1,2,Marc Forster,Lionsgate Films,7.1,85%
+Thoth,2001,1,1,"Sarah Kernochan, Lynn Appelle",Hand to Mouth Productions,7,91%
+For the Birds,2001,1,1,Ralph Eggleston,Pixar Animation Studios,7.8,94%
+No Man's Land,2001,1,1,Danis Tanovi?,Studio Maj,7.9,93%
+Murder on a Sunday Morningÿ(Un coupable id‚al),2001,1,1,Jean-Xavier de Lestrade,Maha Productions,8,100%
+The Accountant,2001,1,1,Ray McKinnon,Ginny Mule Pictures,7.6,83%
+Gladiator,2000,5,12,Ridley Scott,DreamWorks Pictures,8.5,77%
+"Crouching Tiger, Hidden Dragon",2000,4,10,Ang Lee,Sony Pictures Classics,7.8,97%
+Traffic,2000,4,5,Steven Soderbergh,USA Films,7.6,92%
+Erin Brockovich,2000,1,5,Steven Soderbergh,Universal Pictures,7.4,85%
+Almost Famous,2000,1,4,Cameron Crowe,Columbia Pictures,7.9,89%
+Wonder Boys,2000,1,3,Curtis Hanson,Mutual Film Company,7.2,81%
+How the Grinch Stole Christmas,2000,1,3,Ron Howard,Universal Pictures,6.2,49%
+U-571,2000,1,2,Jonathan Mostow,Universal Pictures,6.6,68%
+Pollock,2000,1,2,Ed Harris,Fred Berner Films,7,80%
+Father and Daughter,2000,1,1,Michael Dudok de Wit,Cin‚T‚ Filmproductie BV,7.7,88%
+Into the Arms of Strangers: Stories of the Kindertransport,2000,1,1,Mark Jonathan Harris,Warner Bros.,7.7,91%
+Quiero ser (I want to be...),2000,1,1,Florian Gallenberger,C.A.M.P. TV & Film Productions,7.4,87%
+Big Mama,2000,1,1,Tracy Seretean,Seretean Production Company,7.3,95%
